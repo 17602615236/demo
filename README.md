@@ -1,7 +1,8 @@
 # demo
-测试
-new changer
 
-手写
+ red change 
+ 
+ blue change
 
-bule to B;
+ red to A
+
